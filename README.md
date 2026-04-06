@@ -72,7 +72,7 @@ Facilitar a criação e gestão de cartazes de preços em mercados, reduzindo te
 
 Entre em contato pelo WhatsApp:
 
-👉 [WIN DEV](https://api.whatsapp.com/send?phone=5521985606510&text=Ola%2C+fiquei+interessado+no+seu+app+de+cadrastro.%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80)
+👉 [WIN DEV](https://api.whatsapp.com/send?phone=5521985606510&text=Ola%2C+fiquei+interessado+no+seu+app.%F0%9F%98%80%F0%9F%98%80%F0%9F%98%80)
 
 ---
 
